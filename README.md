@@ -1,31 +1,44 @@
-# SurIA Core
+# SurIA
 
-SurIA is an AI consulting studio focused on helping organizations become AI-native.
-
-This repository documents frameworks, experiments, and structured thinking behind SurIA.
+SurIA is an AI consulting firm focused on helping organizations implement artificial intelligence in measurable, structured, and scalable ways.
 
 ---
 
-## 🔎 Current Focus
+## Our Mission
 
-- SurIA Spotlight (AI Discovery Optimization)
-- AI workflow optimization
-- AI-enabled decision frameworks
+To translate AI potential into operational and strategic impact.
 
----
-
-## 📂 Repository Structure
-
-/docs → Vision, positioning, service definitions  
-/frameworks → Repeatable methodologies  
-/use-cases → Industry applications  
-/prompts → Reusable prompt libraries  
-/experiments → Tests, prototypes, automation  
+We design frameworks, processes, and AI-enabled systems that improve visibility, efficiency, and decision-making.
 
 ---
 
-## 🎯 Philosophy
+## Core Service Lines
 
-Build in public.  
-Think in systems.  
-Optimize for clarity and impact.
+### 1. SurIA Spotlight
+AI Discovery Optimization (ADO)
+Helping companies become visible and relevant in AI-native environments.
+
+### 2. AI Workflow Optimization
+Applying AI to improve operational processes and service models.
+
+### 3. AI Strategy Advisory
+Executive-level guidance for AI adoption and transformation.
+
+---
+
+## Repository Structure
+
+/docs → Vision, positioning, and service definitions  
+/frameworks → Consulting methodologies  
+/use-cases → Industry-specific applications  
+/prompts → Structured prompt libraries  
+/experiments → Prototypes and pilot initiatives  
+
+---
+
+## Principles
+
+• Measurable results  
+• Structured implementation  
+• Ethical and responsible AI  
+• Practical execution over hype  
