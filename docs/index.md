@@ -2,6 +2,7 @@
 layout: default
 title: SurIA
 ---
+[Servicios](servicios) | [Spotlight](spotlight) | [Contacto](contacto)
 
 # SurIA
 
